@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DPqxFZ2O2GPPPUx84Nl0JyYv4xd0PZSGmmBKU4GfWpleWVhOqTC7yFwEoMSvuoiOCbqkg9nqpZBapdU7UVxgFw==",
+  "dgSpecHash": "ndx+DTIoWypB++qVtMUUaDGcmPJqrmndtePa3p5ckYD/sTza593REAk19VpzJ4lGzZEUoEJdeQ+fLdS6RUIO1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\yanaji\\Desktop\\formation\\formation pluralsight.net core\\Entity Framework Core 3.1 Getting Started\\SamuraiApp EntityFramework\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\yanaji\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\yanaji\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

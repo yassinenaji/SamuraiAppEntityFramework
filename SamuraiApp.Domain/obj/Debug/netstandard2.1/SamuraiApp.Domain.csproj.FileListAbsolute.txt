@@ -1,0 +1,9 @@
+C:\Users\yanaji\Desktop\formation\formation pluralsight.net core\Entity Framework Core 3.1 Getting Started\SamuraiApp EntityFramework\SamuraiApp.Domain\bin\Debug\netstandard2.1\SamuraiApp.Domain.deps.json
+C:\Users\yanaji\Desktop\formation\formation pluralsight.net core\Entity Framework Core 3.1 Getting Started\SamuraiApp EntityFramework\SamuraiApp.Domain\bin\Debug\netstandard2.1\SamuraiApp.Domain.dll
+C:\Users\yanaji\Desktop\formation\formation pluralsight.net core\Entity Framework Core 3.1 Getting Started\SamuraiApp EntityFramework\SamuraiApp.Domain\bin\Debug\netstandard2.1\SamuraiApp.Domain.pdb
+C:\Users\yanaji\Desktop\formation\formation pluralsight.net core\Entity Framework Core 3.1 Getting Started\SamuraiApp EntityFramework\SamuraiApp.Domain\obj\Debug\netstandard2.1\SamuraiApp.Domain.csprojAssemblyReference.cache
+C:\Users\yanaji\Desktop\formation\formation pluralsight.net core\Entity Framework Core 3.1 Getting Started\SamuraiApp EntityFramework\SamuraiApp.Domain\obj\Debug\netstandard2.1\SamuraiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\yanaji\Desktop\formation\formation pluralsight.net core\Entity Framework Core 3.1 Getting Started\SamuraiApp EntityFramework\SamuraiApp.Domain\obj\Debug\netstandard2.1\SamuraiApp.Domain.AssemblyInfo.cs
+C:\Users\yanaji\Desktop\formation\formation pluralsight.net core\Entity Framework Core 3.1 Getting Started\SamuraiApp EntityFramework\SamuraiApp.Domain\obj\Debug\netstandard2.1\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yanaji\Desktop\formation\formation pluralsight.net core\Entity Framework Core 3.1 Getting Started\SamuraiApp EntityFramework\SamuraiApp.Domain\obj\Debug\netstandard2.1\SamuraiApp.Domain.dll
+C:\Users\yanaji\Desktop\formation\formation pluralsight.net core\Entity Framework Core 3.1 Getting Started\SamuraiApp EntityFramework\SamuraiApp.Domain\obj\Debug\netstandard2.1\SamuraiApp.Domain.pdb
